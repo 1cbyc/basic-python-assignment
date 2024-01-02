@@ -7,4 +7,5 @@ Let me explain the process:
 3. In each step, plot the points in the current octant and update the decision parameter.
 4. Use symmetry to plot points in other octants.
 
-In summary sha, keep in mind that the midpoint algorithm allows you to approximate the circle by plotting points along its perimeter. I already wrote the code in the 'midpoint-algo\solution.py' file dear.
+In summary sha, keep in mind that the midpoint algorithm allows you to approximate the circle by plotting points along its perimeter. I already wrote the code in the 'midpoint-algo\solution.py' file.
+
