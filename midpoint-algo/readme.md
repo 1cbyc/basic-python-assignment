@@ -1,4 +1,4 @@
-# Tomi, to draw a circle using the midpoint algorithm, you'll need to iterate through octants and use symmetry to plot points.
+# Tomi, please note that to draw a circle using the midpoint algorithm, you'll need to iterate through octants and use symmetry to plot points.
 
 Let me explain the process:
 
